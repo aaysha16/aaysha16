@@ -49,6 +49,20 @@ I am a methodical and research-oriented **Bachelor of Pharmacy** undergraduate a
 
 ---
 
+### 🍵 Current Vibes
+<div align="center">
+  <p>
+    <b>Reading:</b> <i>"The Emperor of All Maladies"</i> by Siddhartha Mukherjee | <b>Writing:</b> Reflections on SECON 2025 | <b>Exploring:</b> AI in Drug Discovery
+  </p>
+  <p>
+    🎨 <i>Blending the precision of a pipette with the fluidity of a poem.</i> 🧬
+  </p>
+</div>
+
+---
+
+---
+
 ### 🖋️ "Science is the poetry of reality."
 > *I thrive in environments that require deep critical thinking, keen observation, and the ability to translate complex technical material into clear, impactful insights.*
 
