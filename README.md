@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" alt="Aaysha Ali Banner" width="100%">
+  <img src="assets/banner.png" alt="Aaysha Ali Banner" width="80%">
 
   # 💊 Aaysha Ali 🖋️
   ### "Science meets Artistry"
