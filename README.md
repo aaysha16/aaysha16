@@ -61,22 +61,8 @@ I am a methodical and research-oriented **Bachelor of Pharmacy** undergraduate a
 
 ---
 
----
-
 ### 🖋️ "Science is the poetry of reality."
 > *I thrive in environments that require deep critical thinking, keen observation, and the ability to translate complex technical material into clear, impactful insights.*
-
----
-
-### 📊 GitHub Insights
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaysha16&show_icons=true&theme=teal&hide_border=true" alt="Aaysha's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaysha16&layout=compact&theme=teal&hide_border=true" alt="Top Languages" height="150" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaysha16&theme=teal&hide_border=true" alt="GitHub Streak" height="150" />
-</div>
 
 ---
 
