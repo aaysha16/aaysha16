@@ -7,13 +7,13 @@
   
   <br>
 
-  [![Website](https://img.shields.io/badge/Portfolio_Website-0d9488?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aaysha16.github.io/)
+  [![Website](https://img.shields.io/badge/Portfolio-Website-0d9488?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](https://aaysha16.github.io/)
   &nbsp;&nbsp;
-  [![Download Resume](https://img.shields.io/badge/Download_Resume-0078d4?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://github.com/aaysha16/Resume/releases/latest/download/Aaysha_Ali_Resume.pdf)
+  [![Download Resume](https://img.shields.io/badge/Resume-Download-0d9488?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)](https://github.com/aaysha16/Resume/releases/latest/download/Aaysha_Ali_Resume.pdf)
   &nbsp;&nbsp;
-  [![Certificates](https://img.shields.io/badge/Certificates_Portfolio-6b7280?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/aaysha16/Certificates)
+  [![Certificates](https://img.shields.io/badge/Certificates-Portfolio-0d9488?style=for-the-badge&logo=GitBook&logoColor=white)](https://github.com/aaysha16/Certificates)
   &nbsp;&nbsp;
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayshaali)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/aayshaali)
 
   <br><br>
 </div>
@@ -92,11 +92,11 @@ I am a detail-oriented **Bachelor of Pharmacy (B.Pharm)** student at **Jamia Ham
 
 <div align="center">
   
-  [![Email](https://img.shields.io/badge/Email-aliaaysha27@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aliaaysha27@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-aliaaysha27%40gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:aliaaysha27@gmail.com)
   &nbsp;&nbsp;
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayshaali)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-aayshaali-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/aayshaali)
   &nbsp;&nbsp;
-  [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-5832-6542)
+  [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--5832--6542-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](https://orcid.org/0009-0005-5832-6542)
 
 </div>
 
